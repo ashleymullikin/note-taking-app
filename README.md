@@ -4,8 +4,8 @@ Deployed application: https://ashleymullikin.github.io/note-taking-app/
 github repo: https://github.com/ashleymullikin/note-taking-app
 
 
-This project is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. 
-This application will also be deployed to Heroku.
+This is an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file. 
+
 
 
 ## Criteria
